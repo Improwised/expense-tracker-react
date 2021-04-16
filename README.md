@@ -1,3 +1,5 @@
 # ExpenseTrackerApp-React
 
-This application Trackes user expense using React.
+This application trackes user expense using React.
+
+![ExpenseTracker](./expense-tracker.png)
